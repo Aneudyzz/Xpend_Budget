@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Xpend_Budget</string>
+    <string name="title_activity_add_transaction">AddTransactionActivity</string>
+</resources>
